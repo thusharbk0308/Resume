@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background-color: #f4f4f4;
+}
+
+header {
+  text-align: center;
+  background-color: #222;
+  color: white;
+  padding: 20px;
+}
+
+section {
+  background: white;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 5px;
+}
+
+h2 {
+  border-bottom: 2px solid #333;
+  padding-bottom: 5px;
+}
+
+ul li {
+  margin: 5px 0;
+}
+
+.project {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+#topBtn {
+  margin: 20px;
+  padding: 10px;
+}
